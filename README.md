@@ -31,6 +31,10 @@ Images
 ![image](https://github.com/ramyaaprasath/OnePiece-Visualization/assets/75536064/e1ddda0e-42be-4da4-90d5-a03c7b64c6e5)
 ![image](https://github.com/ramyaaprasath/OnePiece-Visualization/assets/75536064/01ca117d-2796-4a97-8ac1-aa3208e992a1)
 ![image](https://github.com/ramyaaprasath/OnePiece-Visualization/assets/75536064/7c66dcc8-9bb7-4dd0-b9d3-f7e9923f6f31)
+![image](https://github.com/ramyaaprasath/OnePiece-Visualization/assets/75536064/956c5301-8f02-42c2-8408-59eed9966888)
+![image](https://github.com/ramyaaprasath/OnePiece-Visualization/assets/75536064/8c0e9aed-2613-4e00-a7d0-41ffec506632)
+
+
 
 
 
