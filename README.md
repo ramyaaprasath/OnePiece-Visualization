@@ -32,7 +32,7 @@ To install and run this project, follow these steps:
 ## Usage
 To run the application, execute the following command in the project's directory:
 ```bash
-python project_copy.ipynb
+python main.ipynb
 ```
 The application will start a server and listen on port 8080. You can access the application by navigating to http://localhost:8080 in your web browser.
 
