@@ -1,18 +1,29 @@
+![image](https://github.com/ramyaaprasath/OnePiece-Visualization/assets/75536064/0846873c-fcbb-4074-8248-299e05fd0fbb)
+
 # One Piece Visualization Project
 
 This project is a network graph visualization tool built with Python, Dash, and Plotly. It allows users to visualize connections between different entities in a network.
 This project maps when each one piece character appears in the description of the anime.
+
 ## Dataset
 1. Episodes and Description (Ratings.csv) : https://www.kaggle.com/datasets/luiggiarthur/one-piece-anime-datasetep-1-ep-1064?rvi=1
 2. Character Names (Characters.csv) : https://www.kaggle.com/datasets/sonikaboyapally/one-piece-characters
+
+## Libraries / Frameworks
+1. NetworkX
+2. Dash
+3. Plotly
+4. Matplotlib
+5. Pandas
+   
 ## Installation 
 
 To install and run this project, follow these steps:
 
 ```bash 
   # Clone the repository
-  git clone https://github.com/user/network-graph-visualization
-  cd network-graph-visualization
+  git clone https://github.com/ramyaaprasath/OnePiece-Visualization
+  cd OnePiece-Visualization
   
   # Install the required Python packages
   pip install dash pandas networkx plotly
