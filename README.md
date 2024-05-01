@@ -2,7 +2,9 @@
 
 This project is a network graph visualization tool built with Python, Dash, and Plotly. It allows users to visualize connections between different entities in a network.
 This project maps when each one piece character appears in the description of the anime.
-
+## Dataset
+1. Episodes and Description (Ratings.csv) : https://www.kaggle.com/datasets/luiggiarthur/one-piece-anime-datasetep-1-ep-1064?rvi=1
+2. Character Names (Characters.csv) : https://www.kaggle.com/datasets/sonikaboyapally/one-piece-characters
 ## Installation 
 
 To install and run this project, follow these steps:
